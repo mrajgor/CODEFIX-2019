@@ -7,7 +7,7 @@ public class RevisionService {
 
     private static final String CLASS = "class";
 
-    public void methodRevision1() {
+    public void methodRevision1() 
         System.out.println("1");
         System.out.println("1");
         System.out.println("1");
@@ -17,8 +17,7 @@ public class RevisionService {
         System.out.println("1");
         System.out.println("1");
         System.out.println("1");
-    }
+   
    public void methodRevision3(){
-     System.out.println("1");
-   }
-}
+     System.out.println("1")
+  
