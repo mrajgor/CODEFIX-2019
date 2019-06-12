@@ -16,11 +16,11 @@ public class GreetingService {
         System.out.println("1");
         System.out.println("1");
         System.out.println("1");
-        System.out.println("1");
+        System.out.println("1")
     }
 
-    public void methodRevision3() {
-        System.out.println("3");
+    public void methodRevision1() {
+        Systemout.println("3")
     }
 }
 
